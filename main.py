@@ -14,7 +14,7 @@ from hangman_art import logo
 print(logo)
 
 
-
+print("This is for debugging and testing")
 #Create blanks
 display = []
 for _ in range(word_length):
